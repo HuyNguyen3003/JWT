@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "63b3b9fc3dd283fedf571675"
+  },
+  "username": "test123",
+  "email": "tronghuy123",
+  "password": "$2b$10$AnVc5VpLHoHngFeFhlJO6.XeUj74tN64ygFuPuaPyNRilZtrObJXi",
+  "admin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672722940924"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672722940924"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3bd4e54cec25a6cac4307"
+  },
+  "username": "test12345",
+  "email": "tronghuy12345",
+  "password": "$2b$10$Fc1gPfdtjD6r.ALMnLmIw.25hiTNlrYhA8KxuB3IdJrGL2zmYC/cS",
+  "admin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672723790130"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672723790130"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b543d848153c1488ff02a5"
+  },
+  "username": "admin",
+  "email": "admin",
+  "password": "$2b$10$eT6Vu8O7Smbx91m3jhBoG.abrXgeEmr0C7tjxkH3IRHd2/QUDbrJK",
+  "admin": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672823768425"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672823768425"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b69bc214a37ea1c3af8d87"
+  },
+  "username": "client",
+  "email": "client",
+  "password": "$2b$10$n79Ku07fryPk6swjGaW7BeZuNfs6lRHMj8i.C5/9oVHQbmlOWG8HG",
+  "admin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672911810731"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672911810731"
+    }
+  },
+  "__v": 0
+}]
